@@ -1,0 +1,14 @@
+.text_side {
+    display: inline-block;
+    width: 60%;
+    background-image: url('/img/bg.svg')
+}
+
+.photo_side {
+    display: inline-block;
+    width: 20%;
+}
+
+body {
+    background-image: url('/img/hero.jpg')
+}
