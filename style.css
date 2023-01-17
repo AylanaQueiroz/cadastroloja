@@ -1,7 +1,52 @@
 .text_side {
     display: inline-block;
     width: 60%;
-    background-image: url('/img/bg.svg')
+}
+
+.background_img {
+    display: inline-block;
+    position: relative;
+}
+
+.logo_img {
+    position: absolute;
+    margin-top: -40%;
+    margin-left: 8%;
+}
+
+h1,h2, h3,h4, p {
+    display: inline-block;
+    position: absolute; 
+}
+
+h1 {
+    margin-top: -60%;
+    margin-left: 8%;
+}
+
+h2 {
+    margin-top: -30%;
+    margin-left: 5%;
+}
+
+h3 {
+    margin-top: -35%;
+    margin-left: 5%;
+}
+
+h4 {
+    margin-top: -20%;
+    margin-left: 5%;
+}
+
+p {
+    margin-top: -15%;
+    width: 30%;
+    margin-left: 5%;
+}
+
+input {
+    margin-left: 8%;
 }
 
 .photo_side {
