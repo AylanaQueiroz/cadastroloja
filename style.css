@@ -5,8 +5,6 @@
 
 .background_img {
     display: inline-block;
-    position: relative;
-    right: 18%;
 }
 
 .logo_img {
@@ -67,7 +65,9 @@ input {
     position: absolute;
     margin-top: -20%;
     border: 1px solid #e8d2d3;
-    border-radius: 5px;
+    border-radius: 15px;
+    width: 30%;
+    height: 30px;
 }
 
 .photo_side {
